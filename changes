@@ -1,0 +1,3 @@
+source ~/.sources/create_venv.sh
+source ~/.sources/reset_shell.sh
+source ~/.sources/activate_venv.sh
